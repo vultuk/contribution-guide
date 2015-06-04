@@ -1,12 +1,12 @@
-project
+project:
     - organisation : caffeine-addicts
     - title        : contribution-guide
     - description  : Full contribution guide showing how to commit to all Caffeine Addicts repositories.
     - url          : na
-    - branches
+    - branches:
         - master : The future release version
         - verX.Y : The current Stable Branch
 
-roadmap
-    - 1
+roadmap:
+    - 1:
         - 0 : Initial file structure and templates completed
